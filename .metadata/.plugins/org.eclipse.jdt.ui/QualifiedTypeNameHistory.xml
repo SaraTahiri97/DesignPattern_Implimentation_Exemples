@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.src.Animal"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.FlyWithWings"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.Quack"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.MallardDuck"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.Duck"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.FlyBehavior"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.QuackBehavior"/>
+    <fullyQualifiedTypeName name="SimUDuckAppPackage.Squeak"/>
+    <fullyQualifiedTypeName name="weatherStationPackage.Subject"/>
+    <fullyQualifiedTypeName name="weatherStationPackage.Observer"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="pizzaPackageFactoryPattern.ChicagoPizzaStore"/>
+</qualifiedTypeNameHistroy>

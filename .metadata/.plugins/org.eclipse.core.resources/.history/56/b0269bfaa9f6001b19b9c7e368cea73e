@@ -1,0 +1,5 @@
+package weatherStationPackageObserverPatternJavaUtil;
+
+public class WeatherData {
+
+}

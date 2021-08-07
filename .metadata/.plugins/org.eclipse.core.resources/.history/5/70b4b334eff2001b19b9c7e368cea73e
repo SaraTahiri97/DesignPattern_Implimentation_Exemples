@@ -1,0 +1,11 @@
+package SimUDuckAppPackage;
+
+public class Device  {
+	//composition
+	QuackBehavior cb ;
+	
+	void setQuackBehavior (QuackBehavior cbb) {
+		cb =cbb;
+	}
+
+}

@@ -1,0 +1,18 @@
+package SimUDuckAppPackage;
+
+public class MiniDuckSimulator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		MallardDuck mallard = new MallardDuck();
+//		mallard.performQuack();
+//		mallard.performFly();
+		ModelDuck model = new ModelDuck();
+		model.formeFly();
+		//changing the behavior dynamically
+		model.setFlyBehavior(new FlyRocketPowered());
+		model.formeFly();
+
+	} 
+
+}
